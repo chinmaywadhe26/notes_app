@@ -4,4 +4,4 @@ const SignUp = () => {
   return <div>SignUp</div>;
 };
 
-export default SignUpe;
+export default SignUp;
